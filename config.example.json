@@ -1,0 +1,12 @@
+{
+  "sheet_url": "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit",
+  "timezone": "Asia/Kolkata",
+  "slot_0_start_time": "10:30",
+  "total_slots": 15,
+  "pre_slot_reminder_minutes": 15,
+  "auto_detect_date_from_sheet": true,
+  "fallback_start_date": "2026-09-06",
+  "discord_bot_token": "YOUR_BOT_TOKEN_HERE",
+  "discord_channel_id": "YOUR_CHANNEL_ID_HERE",
+  "discord_webhook_url": "YOUR_WEBHOOK_URL_HERE"
+}
